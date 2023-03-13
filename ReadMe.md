@@ -1,8 +1,6 @@
 
 
-# 1、 exe都已上传：
-
-如果下载速度慢，可访问国内镜像 
+# 1、 如果下载速度慢，可访问国内镜像 
 https://gitee.com/alberli/MyOpenSource
 
 
