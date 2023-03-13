@@ -12,7 +12,7 @@ https://gitee.com/alberli/MyOpenSource
 
 
 # 3、 htmlUI界面库的介绍：
-https://github.com/Alberl-Lee/htmlUI
+见 https://github.com/Alberl-Lee/htmlUI
 
-其他项目的介绍就暂时不写了，效果图也只放第4个Demo的，其他的直接看exe吧
+其他项目的介绍就暂时不写了，效果图也只放第4个Demo的，其他的请直接看exe
 
