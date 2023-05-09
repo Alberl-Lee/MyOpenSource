@@ -15,10 +15,7 @@ https://gitee.com/alberli/MyOpenSource
 详情请看 https://github.com/Alberl-Lee/htmlUI
 
 # 4、blinkUI 界面库：
-从 MiniBlink（基于 Chromium）裁剪，但删减了上万个文件，修改了几百个文件后，发现工作量太大，而且裁剪完后也很难通用。
-
-于是改成了从 0 搭建，改成做 htmlUI 界面库了
-
+从 MiniBlink（基于 Chromium）裁剪，但删减了上万个文件，修改了几百个文件后，发现工作量太大，而且裁剪完后也很难通用。于是改成了从 0 搭建，改成做 htmlUI 界面库了。
 代码请看 https://github.com/Alberl-Lee/blinkUI
 
 
