@@ -4,7 +4,11 @@
 https://gitee.com/alberli/MyOpenSource
 
 # 2、部分截图：
+五子棋游戏
+
 ![image](https://github.com/Alberl-Lee/MyOpenSource/blob/main/7%20%E9%83%A8%E5%88%86%E6%88%AA%E5%9B%BE/%E4%BA%94%E5%AD%90%E6%A3%8B%E6%B8%B8%E6%88%8F.png)
+
+【高仿】迅雷播放器
 
 ![image](https://github.com/Alberl-Lee/MyOpenSource/blob/main/7%20%E9%83%A8%E5%88%86%E6%88%AA%E5%9B%BE/%E4%BB%BF%E8%BF%85%E9%9B%B7%E6%92%AD%E6%94%BE%E5%99%A8.jpg)
 
