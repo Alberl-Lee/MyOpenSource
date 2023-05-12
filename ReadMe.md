@@ -30,5 +30,5 @@ https://gitee.com/alberli/MyOpenSource
 代码请看 https://github.com/Alberl-Lee/blinkUI
 
 
-其他项目的介绍就暂时不写了，效果图也只放第4个Demo的，其他的请直接看exe
+其他项目的介绍就暂时不写了，打开exe能看到更直观的效果
 
