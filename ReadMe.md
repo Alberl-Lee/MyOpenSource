@@ -1,6 +1,6 @@
 
 
-# 1、 如果下载速度慢，可访问国内镜像 
+# 1、如果下载速度慢，可访问国内镜像 
 https://gitee.com/alberli/MyOpenSource
 
 # 2、部分截图：
@@ -15,14 +15,14 @@ https://gitee.com/alberli/MyOpenSource
 ![image](https://raw.githubusercontent.com/Alberl-Lee/MyOpenSource/main/7%20%E9%83%A8%E5%88%86%E6%88%AA%E5%9B%BE/%E4%BB%BF%E8%BF%85%E9%9B%B7%E6%92%AD%E6%94%BE%E5%99%A82.jpg)
 
 
-# 3、 Electron超完整Demo的效果图：
+# 3、Electron超完整Demo的效果图：
 （这个gif有11M，加载可能较慢，也可以下载到本地后再看）
 
 [![imgur](https://github.com/Alberl-Lee/MyOpenSource/raw/main/4%20Electron%20Demo.gif)]()
 
 
 
-# 4、 htmlUI界面库的介绍：
+# 4、htmlUI界面库的介绍：
 详情请看 https://github.com/Alberl-Lee/htmlUI
 
 # 5、blinkUI 界面库：
