@@ -31,4 +31,5 @@ https://gitee.com/alberli/MyOpenSource
 
 
 其他项目的介绍就暂时不写了，打开exe能看到更直观的效果
+（这里只放exe，代码在首页其他列表里）
 
